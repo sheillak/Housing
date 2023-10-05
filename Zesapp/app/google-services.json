@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875886393501",
+    "project_id": "zesapp-58c69",
+    "storage_bucket": "zesapp-58c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875886393501:android:f852102d76fbf913383c74",
+        "android_client_info": {
+          "package_name": "com.shanidev.zesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875886393501-cro1lg6kme8nmj31555iah73ikosvkqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-50KDIADVYCC7ldwqkmRBAWiDoXXkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875886393501-cro1lg6kme8nmj31555iah73ikosvkqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
